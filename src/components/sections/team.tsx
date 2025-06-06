@@ -95,7 +95,7 @@ export function Team() {
 
         <div className='grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-3'>
           {teamMembers.map(member => (
-            <div key={member.name + member.role} className='team-card rounded-lg bg-[#1F1F1F] p-6'>
+            <div key={member.name + member.role} className='hover:shadow-[0_0_15px_var(--primary)] rounded-lg bg-[#1F1F1F] p-6'>
               <h3 className='mb-1 text-xl font-semibold text-white'>{member.name}</h3>
               <p className='mb-2 italic' style={{ color: 'var(--primary)' }}>
                 {member.role}

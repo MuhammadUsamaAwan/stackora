@@ -65,12 +65,3 @@
     @apply px-4;
   }
 }
-
-.team-card {
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
-  transition: box-shadow 0.3s ease;
-}
-
-.team-card:hover {
-  box-shadow: 0 0 15px 3px var(--primary);
-}
