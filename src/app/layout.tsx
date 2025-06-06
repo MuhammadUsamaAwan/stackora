@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: 'Stackora | Web, Mobile, UX/UI Solutions',
   description:
     'Stackora crafts high-performance web and mobile applications with world-class UX/UI design. Scalable. Secure. Stunning.',
+  icons: {
+    icon: '/favicon.svg',
+  }
 };
 
 export default function RootLayout({ children }: React.PropsWithChildren) {
