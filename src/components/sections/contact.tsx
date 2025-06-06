@@ -35,7 +35,7 @@ export function Contact() {
   };
 
   return (
-    <section id='contact'>
+    <section id='contact' className='pt-24 pb-48'>
       <div className='container mx-auto grid grid-cols-1 items-start gap-12 md:grid-cols-2'>
         <div>
           <h2 className='mb-6 text-3xl font-bold'>Let&apos;s Get in Touch</h2>

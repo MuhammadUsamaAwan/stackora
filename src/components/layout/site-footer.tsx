@@ -48,6 +48,11 @@ export function SiteFooter() {
               </Link>
             </li>
             <li>
+              <Link href='#projects' className='hover:text-primary flex items-center'>
+                Projects
+              </Link>
+            </li>
+            <li>
               <Link href='#contact' className='hover:text-primary flex items-center'>
                 Contact
               </Link>

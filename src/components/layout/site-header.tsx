@@ -28,6 +28,10 @@ const menuItems = [
     link: '#about',
   },
   {
+    title: 'Projects',
+    link: '#projects',
+  },
+  {
     title: 'Contact',
     link: '#contact',
   },

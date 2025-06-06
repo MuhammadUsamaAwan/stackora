@@ -82,7 +82,7 @@ const Service = ({
     <section
       id='services'
       className={cn(
-        'group/service border-text-muted-foreground relative flex flex-col border-r py-10',
+        'group/service border-text-muted-foreground relative flex flex-col border-r py-10 mt-10',
         (index === 0 || index === 4) && 'border-text-muted-foreground border-l',
         index < 4 && 'border-text-muted-foreground border-b'
       )}
