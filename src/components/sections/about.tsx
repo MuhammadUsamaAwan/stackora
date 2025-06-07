@@ -10,7 +10,7 @@ export function About() {
       <div className='container mx-auto grid grid-cols-1 items-center gap-16 md:grid-cols-2'>
         <div>
           <Badge variant='outline' className='mb-6 text-sm tracking-widest text-gray-400'>
-            ABOUT STACKORA
+            ABOUT SaaBstack
           </Badge>
 
           <h2 className='mb-6 text-4xl font-extrabold tracking-tight text-white drop-shadow-md md:text-5xl'>
@@ -18,7 +18,7 @@ export function About() {
           </h2>
 
           <p className='mb-6 text-lg leading-relaxed text-gray-400'>
-            At Stackora, we believe technology should do more than just work — it should inspire, connect, and
+            At SaaBstack, we believe technology should do more than just work — it should inspire, connect, and
             transform. Our mission is to empower businesses with innovative web, mobile, and design solutions that truly
             make a difference.
           </p>

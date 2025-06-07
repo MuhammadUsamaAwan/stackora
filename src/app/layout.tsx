@@ -10,9 +10,9 @@ import { cn } from '~/lib/cn';
 import { SiteFooter } from '~/components/layout/site-footer';
 
 export const metadata: Metadata = {
-  title: 'Stackora | Web, Mobile, UX/UI Solutions',
+  title: 'SaaBstack | Web, Mobile, UX/UI Solutions',
   description:
-    'Stackora crafts high-performance web and mobile applications with world-class UX/UI design. Scalable. Secure. Stunning.',
+    'SaaBstack crafts high-performance web and mobile applications with world-class UX/UI design. Scalable. Secure. Stunning.',
   icons: {
     icon: '/favicon.svg',
   }

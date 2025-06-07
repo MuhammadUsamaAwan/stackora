@@ -16,7 +16,7 @@ export function Hero() {
         Building Beautiful, Scalable Digital Experiences
       </h1>
       <p className='text-muted-foreground mx-auto mt-4 max-w-3xl text-center text-lg text-balance'>
-        At Stackora, we specialize in crafting exceptional web and mobile solutions with seamless UX/UI design. Whether
+        At SaaBstack, we specialize in crafting exceptional web and mobile solutions with seamless UX/UI design. Whether
         you’re launching a startup or scaling an enterprise platform — we bring your digital vision to life with
         precision and creativity.
       </p>

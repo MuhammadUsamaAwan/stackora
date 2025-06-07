@@ -53,8 +53,8 @@ export function Contact() {
             </div>
             <div className='flex items-center gap-3'>
               <MailIcon className='text-primary h-5 w-5' />
-              <a href='mailto:info@stackora.com' className='hover:underline'>
-                info@stackora.com
+              <a href='mailto:info@saabstack.com' className='hover:underline'>
+                info@saabstack.com
               </a>
             </div>
           </div>

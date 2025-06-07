@@ -71,8 +71,8 @@ export function SiteFooter() {
             </li>
             <li className='flex items-center gap-3'>
               <MailIcon className='text-primary h-5 w-5' />
-              <a href='mailto:info@stackora.com' className='hover:underline'>
-                info@stackora.com
+              <a href='mailto:info@saabstack.com' className='hover:underline'>
+                info@saabstack.com
               </a>
             </li>
           </ul>
@@ -82,7 +82,7 @@ export function SiteFooter() {
         <div>
           <h3 className='mb-6 text-lg font-semibold'>Newsletter</h3>
           <p className='text-muted-foreground mb-4 text-sm'>
-            Subscribe to get the latest updates, news, and offers from Stackora.
+            Subscribe to get the latest updates, news, and offers from SaaBstack.
           </p>
           <form onSubmit={handleSubscribe} className='flex flex-col gap-3 sm:flex-row'>
             <Input
@@ -102,7 +102,7 @@ export function SiteFooter() {
         </div>
       </div>
       <div className='text-muted-foreground mt-12 text-center text-sm'>
-        &copy; {new Date().getFullYear()} Stackora. All rights reserved.
+        &copy; {new Date().getFullYear()} SaaBstack. All rights reserved.
       </div>
     </footer>
   );

@@ -46,7 +46,7 @@ export function SiteHeader() {
         <Link href='/' className='flex items-center gap-2 text-xl font-semibold'>
           <CodeIcon className='text-primary size-5' />
           <div>
-            Stack<span className='text-primary'>ora</span>
+            SaaB<span className='text-primary'>stack</span>
           </div>
         </Link>
         <nav className='hidden gap-10 md:flex'>
